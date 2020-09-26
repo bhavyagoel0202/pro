@@ -1,0 +1,78 @@
+body {
+    background-color: cyan
+    ;
+    text-align: center;
+    margin: 0;
+    font-family: "Lucida Console", Courier, monospace, sans-serif;
+}
+
+h1 {
+    margin-top: 0;
+    font-size:50px;
+    color: #66BFBF;
+}
+
+#h3 {
+    font-size: 3rem;
+    font-weight: normal;
+}
+
+h2 {
+    color:  #66BFBF;
+}
+
+.top {
+    background-color: cyan;
+    padding-top: 80px;
+    position: relative;
+}
+
+.Pro {
+    text-decoration: underline;
+}
+
+.b-cloud {
+    position: absolute;
+    left: 350px;
+    bottom: 300px;
+}
+
+.t-cloud {
+    position: absolute;
+    right: 350px;
+    top: 50px;
+}
+.my-img {
+    height: 250px;
+    width: 250px;
+}
+
+p {
+    line-height: 30px;
+}
+
+#fixed {
+    position: fixed;
+    background-color: black;
+    color: white;
+}
+
+.skill-row {
+    width:50%;
+    margin:0 auto 0 auto;
+}
+
+#dot-hr {
+    border-top: 5px dotted;
+    width: 20%;
+}
+
+.footer {
+    margin: 0;
+    background-color: lightblue;
+    height: 70px;
+}
+
+.hover:hover {
+    background-color: blue;
+}
